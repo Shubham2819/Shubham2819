@@ -12,7 +12,7 @@ I'm a PHP and Laravel developer with over a year of experience in web developmen
 ## How to Reach Me
 
 - 📧 Email: NOT AVAILABLE
-- 🌐 Linkdin: [[Linkdin_Profile](https://in.linkedin.com/in/shubham-pandey-8b59aa215)]
+- ℹ Linkdin: [[Linkdin_Profile](https://in.linkedin.com/in/shubham-pandey-8b59aa215)]
 - 🐦 Twitter: NOT AVAILABLE
 
 ## Fun Fact
