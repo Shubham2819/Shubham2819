@@ -1,22 +1,82 @@
+Here's your updated GitHub **README** with the **Fun Fact** section removed:
+
+---
+
 # Hi, I'm Shubham Pandey 👋
 
-I'm a PHP and Laravel developer with over a year of experience in web development. I have a passion for creating efficient and scalable applications.
+**Web Developer | PHP | Laravel | C# | React.js**
 
-## About Me
+📍 Sarroi Bazar, Sarroi, Bhadohi, 221401
+📞 +91 9569799872
+📧 [shubhampandey2819@gmail.com](mailto:shubhampandey2819@gmail.com)
 
-- 💻 Worked as a PHP developer for 1+ years
-- 🌱 Currently learning advanced Laravel techniques
-- 🔍 Interested in backend development, API design, and database management
-- 📚 Constantly improving my skills in software architecture and design patterns
+---
 
-## How to Reach Me
+## 💼 Career Summary
 
-- 📧 Email: NOT AVAILABLE
-- ℹ Linkdin: [[Linkdin_Profile](https://in.linkedin.com/in/shubham-pandey-8b59aa215)]
-- 🐦 Twitter: NOT AVAILABLE
+Software Developer with **2+ years of experience** in PHP, SQL, and SSMS, plus **6 months in .NET and C#**. Skilled in **HTML, CSS, JavaScript, and React.js**, with a strong background in developing **dynamic web applications**, **REST APIs**, and **responsive user interfaces**. Known for writing **clean, maintainable code** and collaborating effectively within teams.
 
-## Fun Fact
+---
 
-I love to explore new technologies and experiment with different programming languages in my free time. Did you know that I once built a mini self-driving robot using Raspberry Pi?
+## 🧑‍💻 Work Experience
 
-Let's connect and collaborate on exciting projects! 😄✨
+**NIVOTIME PVT. LTD. – Maharashtra (Mumbai)**
+**Software Developer**
+*Intern: May 12, 2023 – August 2023 | Full-Time: August 2023 – Present*
+
+* Developed and maintained web applications using **PHP**, **Laravel**, and **MySQL**
+* Contributed to backend development in **C# and ASP.NET**
+* Managed SQL databases using **SSMS**
+* Collaborated on new feature development and site updates
+
+---
+
+## 🚀 Relevant Projects
+
+* **Swami Vivekananda Yuva Suraksha Yojna**
+  Built full backend and secure dynamic APIs to handle student data and institutional workflows
+  🌐 [svyuvasuraksha.org](https://svyuvasuraksha.org)
+
+* **Simson Chemtech**
+  Designed APIs and backend logic for product listing, order management, authentication, and inventory
+  🌐 [simsonchemtech.com](https://simsonchemtech.com)
+
+* **CLR (Current Labour Reports)**
+  Developed backend modules to manage publications, legal archives, and subscriptions
+  🌐 [currentlabourreports.com](https://currentlabourreports.com)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
+*Mahatma Gandhi Kashi Vidyapith University – 2021*
+
+---
+
+## 🛠️ Skills
+
+**Languages:** PHP, C#, Java, JavaScript
+**Frontend:** HTML5, CSS3, React.js, Next.js
+**Backend:** Core PHP, Laravel, C#, .NET
+**Database:** MySQL, SQL Server, SSMS
+**Tools & Platforms:** Git, VS Code, XAMPP, Postman
+**Soft Skills:** Team collaboration, Time management, Problem-solving
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Laravel Techniques
+* System Design and Architecture
+* Real-time APIs and Microservices
+
+---
+
+## 🤝 Let's Connect
+
+* 🔗 [LinkedIn](https://in.linkedin.com/in/shubham-pandey-8b59aa215)
+* ✉️ Email: [shubhampandey2819@gmail.com](mailto:shubhampandey2819@gmail.com)
+* ☎️ Phone: +91 9569799872
+
+---
