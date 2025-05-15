@@ -57,11 +57,17 @@ Software Developer with **2+ years of experience** in PHP, SQL, and SSMS, plus *
 ## 🛠️ Skills
 
 **Languages:** PHP, C#, Java, JavaScript
+
 **Frontend:** HTML5, CSS3, React.js, Next.js
+
 **Backend:** Core PHP, Laravel, C#, .NET
+
 **Database:** MySQL, SQL Server, SSMS
+
 **Tools & Platforms:** Git, VS Code, XAMPP, Postman
+
 **Soft Skills:** Team collaboration, Time management, Problem-solving
+
 
 ---
 
