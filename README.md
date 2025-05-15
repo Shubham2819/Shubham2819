@@ -1,5 +1,3 @@
-Here's your updated GitHub **README** with the **Fun Fact** section removed:
-
 ---
 
 # Hi, I'm Shubham Pandey 👋
