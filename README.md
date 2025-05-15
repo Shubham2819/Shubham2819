@@ -78,6 +78,6 @@ Software Developer with **2+ years of experience** in PHP, SQL, and SSMS, plus *
 
 * 🔗 [LinkedIn](https://in.linkedin.com/in/shubham-pandey-8b59aa215)
 * ✉️ Email: [shubhampandey2819@gmail.com](mailto:shubhampandey2819@gmail.com)
-* ☎️ Phone: +91 ********72
+* ☎️ Phone: +91 xxxxxxxx72
 
 ---
